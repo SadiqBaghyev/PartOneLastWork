@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Qutardayqutarrrrr\Qutardayqutarrrrr\bin\Debug\net6.0\Qutardayqutarrrrr.exe
+C:\Users\USER\source\repos\Qutardayqutarrrrr\Qutardayqutarrrrr\bin\Debug\net6.0\Qutardayqutarrrrr.deps.json
+C:\Users\USER\source\repos\Qutardayqutarrrrr\Qutardayqutarrrrr\bin\Debug\net6.0\Qutardayqutarrrrr.runtimeconfig.json
+C:\Users\USER\source\repos\Qutardayqutarrrrr\Qutardayqutarrrrr\bin\Debug\net6.0\Qutardayqutarrrrr.dll
+C:\Users\USER\source\repos\Qutardayqutarrrrr\Qutardayqutarrrrr\bin\Debug\net6.0\Qutardayqutarrrrr.pdb
+C:\Users\USER\source\repos\Qutardayqutarrrrr\Qutardayqutarrrrr\obj\Debug\net6.0\Qutardayqutarrrrr.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Qutardayqutarrrrr\Qutardayqutarrrrr\obj\Debug\net6.0\Qutardayqutarrrrr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Qutardayqutarrrrr\Qutardayqutarrrrr\obj\Debug\net6.0\Qutardayqutarrrrr.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Qutardayqutarrrrr\Qutardayqutarrrrr\obj\Debug\net6.0\Qutardayqutarrrrr.AssemblyInfo.cs
+C:\Users\USER\source\repos\Qutardayqutarrrrr\Qutardayqutarrrrr\obj\Debug\net6.0\Qutardayqutarrrrr.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Qutardayqutarrrrr\Qutardayqutarrrrr\obj\Debug\net6.0\Qutardayqutarrrrr.dll
+C:\Users\USER\source\repos\Qutardayqutarrrrr\Qutardayqutarrrrr\obj\Debug\net6.0\refint\Qutardayqutarrrrr.dll
+C:\Users\USER\source\repos\Qutardayqutarrrrr\Qutardayqutarrrrr\obj\Debug\net6.0\Qutardayqutarrrrr.pdb
+C:\Users\USER\source\repos\Qutardayqutarrrrr\Qutardayqutarrrrr\obj\Debug\net6.0\Qutardayqutarrrrr.genruntimeconfig.cache
+C:\Users\USER\source\repos\Qutardayqutarrrrr\Qutardayqutarrrrr\obj\Debug\net6.0\ref\Qutardayqutarrrrr.dll
